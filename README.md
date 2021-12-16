@@ -2,8 +2,8 @@
 
 Add "smart" control to your "dumb" Traeger smoker.
 
-![hero](https://smokestack.magnolialogic.net/img/smoker.png?)
-![hardware](https://smokestack.magnolialogic.net/img/3D.png?)
+![hero](https://smokestack.magnolialogic.net/img/smoker.png)
+![hardware](https://smokestack.magnolialogic.net/img/3D.png)
 
 This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend), for version 1 (UIKit app, Google Firebase backend) please see [smokestack-legacy](https://www.github.com/magnolialogic/smokestack-legacy)
 
@@ -16,20 +16,23 @@ This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend), 
 
 ### Screenshots
 
-Light/dark mode
-![light](https://smokestack.magnolialogic.net/img/hero_light.png?) ![dark](https://smokestack.magnolialogic.net/img/hero_dark.png?)
+Light mode
+![light](https://smokestack.magnolialogic.net/img/hero_light.png)
+
+Dark mode
+![dark](https://smokestack.magnolialogic.net/img/hero_dark.png)
 
 Sign In With Apple
-![SIWA](https://smokestack.magnolialogic.net/img/SIWA.png?)
+![SIWA](https://smokestack.magnolialogic.net/img/SIWA.png)
 
 Landing Screen
-![frontporch](https://smokestack.magnolialogic.net/img/landing_page.png?)
+![frontporch](https://smokestack.magnolialogic.net/img/landing_page.png)
 
 Setup
-![setup](https://smokestack.magnolialogic.net/img/setup.png?)
+![setup](https://smokestack.magnolialogic.net/img/setup.png)
 
 Settings
-![settings](https://smokestack.magnolialogic.net/img/settings.png?)
+![settings](https://smokestack.magnolialogic.net/img/settings.png)
 
 Running
-![running](https://smokestack.magnolialogic.net/img/running.png?)
+![running](https://smokestack.magnolialogic.net/img/running.png)
