@@ -16,23 +16,23 @@ This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend), 
 
 ### Screenshots
 
-Light mode
+Light mode<br>
 ![light](https://smokestack.magnolialogic.net/img/hero_light.png?)
 
-Dark mode
+Dark mode<br>
 ![dark](https://smokestack.magnolialogic.net/img/hero_dark.png?)
 
-Sign In With Apple
+Sign In With Apple<br>
 ![SIWA](https://smokestack.magnolialogic.net/img/SIWA.png?)
 
-Landing Screen
+Landing Screen<br>
 ![frontporch](https://smokestack.magnolialogic.net/img/landing_page.png?)
 
-Setup
+Setup<br>
 ![setup](https://smokestack.magnolialogic.net/img/setup.png?)
 
-Settings
+Settings<br>
 ![settings](https://smokestack.magnolialogic.net/img/settings.png?)
 
-Running
+Running<br>
 ![running](https://smokestack.magnolialogic.net/img/running.png?)
