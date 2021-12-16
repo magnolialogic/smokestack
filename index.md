@@ -1,4 +1,6 @@
-![smoker](https://smokestack.magnolialogic.net/img/smoker.png)<br><br>
+![smoker](https://smokestack.magnolialogic.net/img/smoker.png)<br>
+
+This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend), for version 1 (UIKit app, Google Firebase backend) please see [smokestack-legacy](https://www.github.com/magnolialogic/smokestack-legacy)<br><br>
 
 ## Components
 [smokestack-core](https://github.com/magnolialogic/smokestack-core): Swift Package with shared data model for iOS app and Vapor backend<br>
