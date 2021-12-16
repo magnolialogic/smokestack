@@ -1,0 +1,15 @@
+[submodule "smokestack-vapor"]
+	path = smokestack-vapor
+	url = git@github.com:magnolialogic/smokestack-vapor.git
+[submodule "smokestack-3D"]
+	path = smokestack-3D
+	url = git@github.com:magnolialogic/smokestack-3D.git
+[submodule "smokestack-core"]
+	path = smokestack-core
+	url = git@github.com:magnolialogic/smokestack-core.git
+[submodule "smokestack-firmware"]
+	path = smokestack-firmware
+	url = git@github.com:magnolialogic/smokestack-firmware.git
+[submodule "smokestack-app"]
+	path = smokestack-app
+	url = git@github.com:magnolialogic/smokestack-app.git
