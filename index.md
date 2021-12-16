@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/magnolialogic/smokestack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[smokestack](https://github.com/magnolialogic/smokestack) adds "smart" controls to your "dumb" Traeger smoker.<br><br>
+![smoker](https://smokestack.magnolialogic.net/img/smoker.png)<br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Components
+[smokestack-core](https://github.com/magnolialogic/smokestack-core): Swift Package with shared data model for iOS app and Vapor backend<br>
+[smokestack-app](https://github.com/magnolialogic/smokestack-app): SwiftUI 3.0 app, requires iOS 15.2+<br>
+[smokestack-vapor](https://github.com/magnolialogic/smokestack-vapor): Vapor backend/services, supports macOS and Linux (via docker-compose)<br>
+[smokestack-firmware](https://github.com/magnolialogic/smokestack-firmware): Python smoker firmware for Raspberry Pi<br>
+[smokestack-3D](https://github.com/magnolialogic/smokestack-3D): 3D-printable parts for the controller box<br><br>
 
-### Markdown
+## Technologies
+- SwiftUI
+- Swift 5.5 async/await concurrency
+- iOS app supports light + dark mode
+- Apple Associated Domain (allows password autofill)
+- Swift Package Manager (shared data model for iOS app and Vapor backend)
+- Sign In With Apple
+- REST APIs, WebSockets
+- Redis
+- APNS<br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Screenshots
+Light mode<br>
+![light](https://smokestack.magnolialogic.net/img/hero_light.png?)
 
-```markdown
-Syntax highlighted code block
+Dark mode<br>
+![dark](https://smokestack.magnolialogic.net/img/hero_dark.png?)
 
-# Header 1
-## Header 2
-### Header 3
+Sign In With Apple<br>
+![SIWA](https://smokestack.magnolialogic.net/img/SIWA.png?)
 
-- Bulleted
-- List
+Landing Screen<br>
+![frontporch](https://smokestack.magnolialogic.net/img/landing_page.png?)
 
-1. Numbered
-2. List
+Setup<br>
+![setup](https://smokestack.magnolialogic.net/img/setup.png?)
 
-**Bold** and _Italic_ and `Code` text
+Settings<br>
+![settings](https://smokestack.magnolialogic.net/img/settings.png?)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magnolialogic/smokestack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Running<br>
+![running](https://smokestack.magnolialogic.net/img/running.png?)
