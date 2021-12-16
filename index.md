@@ -1,6 +1,3 @@
-## About
-
-[smokestack](https://github.com/magnolialogic/smokestack) adds "smart" controls to your "dumb" Traeger smoker.<br><br>
 ![smoker](https://smokestack.magnolialogic.net/img/smoker.png)<br><br>
 
 ## Components
