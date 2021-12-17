@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://smokestack.magnolialogic.net/img/smoker.png" /><br/>
-  <img src="https://smokestack.magnolialogic.net/img/3D.png" />
+  <img src="https://smokestack.magnolialogic.net/img/smoker.png" width=480/>
+  <img src="https://smokestack.magnolialogic.net/img/3D.png" width=355/>
 </p>
-<br><br>
 
-**Note:** This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend) which is a work in progress, for version 1 (UIKit app, Google Firebase backend) please see [smokestack-legacy](https://www.github.com/magnolialogic/smokestack-legacy)
+<br>
+
+**Note:** This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend) which is a work in progress, for version 1 (UIKit app, Google Firebase backend) please see [smokestack-legacy](https://www.github.com/magnolialogic/smokestack-legacy)<br><br>
 
 ## Components
 [smokestack-core](https://github.com/magnolialogic/smokestack-core): Swift Package with shared data model for iOS app and Vapor backend<br>
