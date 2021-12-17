@@ -5,7 +5,7 @@
 
 <br>
 
-**Note:** This repository tracks version 2.0 (SwiftUI app, Vapor REST/WebSocket backend) which is a work in progress, for version 1 (UIKit app, Google Firebase backend) please see [smokestack-legacy](https://www.github.com/magnolialogic/smokestack-legacy)<br><br>
+**Note:** This repository tracks version 2.0 (SwiftUI app, Vapor backend) which is a work in progress, for version 1 (UIKit app, Google Firebase backend) please see [smokestack-legacy](https://www.github.com/magnolialogic/smokestack-legacy)<br><br>
 
 ## Components
 [smokestack-core](https://github.com/magnolialogic/smokestack-core): Swift Package with shared data model for iOS app and Vapor backend<br>
