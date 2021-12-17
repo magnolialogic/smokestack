@@ -1,6 +1,6 @@
 <p align="center">
+  <img src="https://smokestack.magnolialogic.net/img/3D.png" width=480/><br>
   <img src="https://smokestack.magnolialogic.net/img/smoker.png" width=480/>
-  <img src="https://smokestack.magnolialogic.net/img/3D.png" width=355/>
 </p>
 
 <br>
@@ -37,9 +37,9 @@ Firmware:
 ## Screenshots
 <p align="center">
   <img src="https://smokestack.magnolialogic.net/img/running.png" alt="Running" width=240/>
-  <img src="https://smokestack.magnolialogic.net/img/hero_dark.png" alt="Dark mode" width=240/>
-  <img src="https://smokestack.magnolialogic.net/img/SIWA.png" alt="Sign In With Apple" width=240/><br>
-  <img src="https://smokestack.magnolialogic.net/img/landing_page.png" alt="Landing Page" width=240/>
+  <img src="https://smokestack.magnolialogic.net/img/hero_dark.png" alt="Dark mode" width=240/><br>
+  <img src="https://smokestack.magnolialogic.net/img/SIWA.png" alt="Sign In With Apple" width=240/>
+  <img src="https://smokestack.magnolialogic.net/img/landing_page.png" alt="Landing Page" width=240/><br>
   <img src="https://smokestack.magnolialogic.net/img/setup.png" alt="Setup" width=240/>
   <img src="https://smokestack.magnolialogic.net/img/settings.png" alt="Settings" width=240/>
 </p>
